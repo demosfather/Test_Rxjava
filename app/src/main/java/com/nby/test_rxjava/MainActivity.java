@@ -21,7 +21,6 @@ public class MainActivity extends BaseActivity {
     List<Fruit> fruits = new ArrayList<>();
     @BindView(R.id.rv_main)
     RecyclerView rvMain;
-   //加个注释证明修改了代码
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
